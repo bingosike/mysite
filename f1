@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Luke Meola – Web Copywriter</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Luke Meola</h1>
+      <p class="tagline">Web Copywriter & SEO Specialist</p>
+      <a href="#contact" class="btn">Work With Me</a>
+    </div>
+  </header>
+
+  <section id="services">
+    <h2>What I Do</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Website Copywriting</h3>
+        <p>Clear, compelling copy that makes your site convert — not just exist.</p>
+      </div>
+      <div class="card">
+        <h3>SEO Optimization</h3>
+        <p>I write content Google can’t ignore — clean structure, keywords, and flow.</p>
+      </div>
+      <div class="card">
+        <h3>Basic Web Builds</h3>
+        <p>I build fast, clean HTML/CSS sites for small businesses and personal brands.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Let’s Talk</h2>
+    <p>Email me at <a href="mailto:you@email.com">you@email.com</a> or connect on <a href="#">LinkedIn</a>.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Luke Meola. Built with HTML & CSS, no fluff.</p>
+  </footer>
+</body>
+</html>
